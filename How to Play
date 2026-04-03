@@ -1,9 +1,0 @@
-/* Once the game runs you look at the two cards that were dealt to you and you decide if you want to hit (take another card) or stay 
-   (not take another card) because the total value of the cards cannot be greater than 21. You repeat this process until you bust
-   (where total card values go over 21) or until you decide to stay. After your turn is over the dealer deals himself some cards to
-   try to be you. If the dealer gets 21 he wins and also if the dealer gets a closer number to 21 than you he wins). If both the dealer
-   and the player have over 21 no one wins. To play again click the Yes button and to quit the game click the No button.
-   
-   P.S: An Ace can be worth 1 or 11 and all Face Cards (Jacks, Queens, Kings) are worth 10.
-
- */
